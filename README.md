@@ -4,7 +4,7 @@
 ● Project Description:
 
 BINGO is intended to be a simple search engine to find the most related text 
-files possible amongs other files in a certain directory.
+files possible amongst other files in a certain directory.
 
   _________________________________
 

@@ -1,14 +1,51 @@
-## Getting Started
+# Stick-Water_Fire_Game
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+● Project Description:
 
-The workspace contains two folders by default, where:
+BINGO is intended to be a simple search engine to find the most related text 
+files possible amongs other files in a certain directory.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+  _________________________________
 
-## Dependency Management
 
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+● Project Goals:
+
+
+  -> Work with multi-file Java projects. 
+  
+  -> Write instance variables and methods. 
+  
+  -> Work with conditionals. 
+  
+  -> Learn and use Arrays 
+  
+  -> Practice testing and debugging.
+
+  
+  _________________________________
+  
+  
+● Project Background
+
+
+  The goal is to make a search engine that takes the search element and the name of the directory where all the   files are located. The program breaks the words and adds them to a string array and then compares the         occurrences of the words with the files. The file with maximum matches is returned
+  
+  _________________________________
+  
+  
+  ● Code Structure:
+  
+  This project contains the following important folders:
+  
+  -> src: This is the source folder which consists of a java file that implements the algorithm of the game and an main file to run the game.
+  
+  -> files: The directory that contains multiple sample .txt files
+          
+  __________________________________
+  
+  
+● Contributing
+
+  If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed. 
+  If you find any issue just put it in the repository issue section, thank you.
